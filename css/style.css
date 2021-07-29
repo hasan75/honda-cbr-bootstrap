@@ -1,0 +1,51 @@
+/* google font import  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/* font style  */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.bg-honda-primary {
+  background-color: #264653;
+}
+.ms-button {
+  margin-left: 100px;
+}
+.btn-honda-danger,
+.bg-offcanvas {
+  background-color: #e76f51;
+}
+
+/* image gray  */
+.gray-scale {
+  filter: grayscale(100%);
+}
+.client-color,
+.modal-text-color,
+.question-color,
+.main-faces {
+  color: #e76f51;
+}
+/* news card image  */
+.news-card-img {
+  height: 256px;
+  width: 337px;
+}
+
+/* star fill css  */
+.filled {
+  color: #e77c40;
+}
+.bg-about-us {
+  background-color: #e66c2b;
+}
+.members img {
+  height: 70px;
+  width: 70px;
+}
+.btn-contact {
+  background-color: #8cdbb9;
+}
+.bg-honda-footer {
+  background-color: #0b0d17;
+}
